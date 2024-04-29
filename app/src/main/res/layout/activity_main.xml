@@ -14,7 +14,7 @@
             style="@style/EditTextGuess"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Enter your guess (1 - 100)500" />
+            android:hint="@string/text_enter_your_guess_1_100" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
@@ -22,7 +22,7 @@
         style="@style/ButtonGuess"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Guess" />
+        android:text="@string/text_guess" />
 
     <TextView
         android:id="@+id/textViewResult"

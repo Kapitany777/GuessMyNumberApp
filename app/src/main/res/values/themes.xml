@@ -9,6 +9,7 @@
     <style name="Theme.GuessMyNumberApp" parent="Base.Theme.GuessMyNumberApp" />
 
     <style name="EditTextGuess">
+        <item name="android:textSize">18sp</item>
         <item name="android:inputType">number</item>
         <item name="android:maxLength">3</item>
     </style>
@@ -20,7 +21,7 @@
     </style>
 
     <style name="TextViewInfo">
-        <item name="android:textSize">14sp</item>
+        <item name="android:textSize">18sp</item>
         <item name="android:padding">10dp</item>
         <item name="android:layout_margin">5dp</item>
         <item name="android:gravity">center_horizontal</item>

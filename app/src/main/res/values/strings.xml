@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Guess My Number</string>
+    <string name="text_this_field_cannot_be_empty">This field cannot be empty!</string>
+    <string name="text_you_have_won">You have won!</string>
+    <string name="text_too_low">Too low!</string>
+    <string name="text_too_high">Too high!</string>
+    <string name="text_number_of_guesses">Number of guesses: %1$s</string>
+    <string name="text_enter_your_guess_1_100">Enter your guess (1 - 100)</string>
+    <string name="text_guess">Guess</string>
 </resources>
